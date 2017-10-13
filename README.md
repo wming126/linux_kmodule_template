@@ -1,0 +1,2 @@
+# linux_kmodule_template
+该项目为linux内核模块编译makefile格式模板，目前支持交叉编译和本地编译两种方式
